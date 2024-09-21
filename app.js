@@ -8,7 +8,7 @@ try{
     output.value=eval(output.value)
 }
 catch{
-    output.value='Entha Taagav...🍻🤣'
+    output.value='Entha Taagav...🍻'
 }
 }
 function clr(){

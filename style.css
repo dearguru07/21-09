@@ -2,7 +2,7 @@
     margin: 50px auto;
     width: 500px;
     padding: 20px;
-    background-color: rgb(31, 33, 29);
+    background-color: rgb(71, 78, 65);
     border-radius: 20px;
     border: 2px solid black;
 
@@ -30,13 +30,13 @@ button{
     height: 45px;
     margin-top: 20px;
     border: none;
-    color: rgb(64, 53, 53);
+    color: rgb(255, 255, 255);
     margin: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
     border-radius: 40px;
-    background: #73837e;
+    background: #131615;
     box-shadow:  9px -9px 44px #4f927c,
 }
